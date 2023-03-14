@@ -1,0 +1,4 @@
+teamName: KK is my god
+student1_fullName: Shanchun Yi
+student1_studentNumber: 1005116508
+student1_email: shanchun.yi@mail.utoronto.ca
